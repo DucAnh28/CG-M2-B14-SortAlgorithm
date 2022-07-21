@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1-MakingBubbleSort/TH1-MakingBubbleSort.iml" filepath="$PROJECT_DIR$/TH1-MakingBubbleSort/TH1-MakingBubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH2-illustrationBubbleSort/TH2-illustrationBubbleSort.iml" filepath="$PROJECT_DIR$/TH2-illustrationBubbleSort/TH2-illustrationBubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH3-SelectionSort/TH3-SelectionSort.iml" filepath="$PROJECT_DIR$/TH3-SelectionSort/TH3-SelectionSort.iml" />
     </modules>
   </component>
 </project>
